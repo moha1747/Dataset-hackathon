@@ -1,0 +1,54 @@
+[
+    {
+        "Year":2015,
+        "Company":"Etsy ",
+        "Female %":51,
+        "Male %":49,
+        "% White":79,
+        "% Asian":"11",
+        "% Latino":"4",
+        "% Black":"3",
+        "% Multi":"3",
+        "% Other":"0",
+        "% Undeclared":"0"
+    },
+    {
+        "Year":2016,
+        "Company":"Etsy ",
+        "Female %":51,
+        "Male %":49,
+        "% White":79,
+        "% Asian":"11",
+        "% Latino":"4",
+        "% Black":"3",
+        "% Multi":"3",
+        "% Other":null,
+        "% Undeclared":"0"
+    },
+    {
+        "Year":2017,
+        "Company":"Etsy ",
+        "Female %":54,
+        "Male %":46,
+        "% White":79,
+        "% Asian":"10",
+        "% Latino":"4",
+        "% Black":"3",
+        "% Multi":"4",
+        "% Other":"<1",
+        "% Undeclared":"0"
+    },
+    {
+        "Year":2018,
+        "Company":"Etsy ",
+        "Female %":54,
+        "Male %":46,
+        "% White":79,
+        "% Asian":"10",
+        "% Latino":"4",
+        "% Black":"3",
+        "% Multi":"4",
+        "% Other":"<1",
+        "% Undeclared":"0"
+    }
+]

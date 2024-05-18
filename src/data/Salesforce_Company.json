@@ -1,0 +1,67 @@
+[
+    {
+        "Year":2014,
+        "Company":"Salesforce",
+        "Female %":29,
+        "Male %":71,
+        "% White":67,
+        "% Asian":"22",
+        "% Latino":"4",
+        "% Black":"2",
+        "% Multi":"2",
+        "% Other":"3",
+        "% Undeclared":"0"
+    },
+    {
+        "Year":2015,
+        "Company":"Salesforce",
+        "Female %":29,
+        "Male %":71,
+        "% White":67,
+        "% Asian":"22",
+        "% Latino":"4",
+        "% Black":"2",
+        "% Multi":"2",
+        "% Other":"3",
+        "% Undeclared":"0"
+    },
+    {
+        "Year":2016,
+        "Company":"Salesforce",
+        "Female %":29,
+        "Male %":71,
+        "% White":67,
+        "% Asian":"22",
+        "% Latino":"4",
+        "% Black":"2",
+        "% Multi":"2",
+        "% Other":"3",
+        "% Undeclared":"0"
+    },
+    {
+        "Year":2017,
+        "Company":"Salesforce",
+        "Female %":31,
+        "Male %":69,
+        "% White":65,
+        "% Asian":"24",
+        "% Latino":"4",
+        "% Black":"3",
+        "% Multi":"3",
+        "% Other":"<1",
+        "% Undeclared":"2"
+    },
+    {
+        "Year":2018,
+        "Company":"Salesforce",
+        "Female %":31,
+        "Male %":69,
+        "% White":65,
+        "% Asian":"24",
+        "% Latino":"4",
+        "% Black":"3",
+        "% Multi":"3",
+        "% Other":"0",
+        "% Undeclared":"2"
+    }
+]

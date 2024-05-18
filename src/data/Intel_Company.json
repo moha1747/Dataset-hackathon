@@ -1,0 +1,67 @@
+[
+    {
+        "Year":2014,
+        "Company":"Intel",
+        "Female %":25,
+        "Male %":75,
+        "% White":61,
+        "% Asian":"26",
+        "% Latino":"9",
+        "% Black":"4",
+        "% Multi":"0",
+        "% Other":"1",
+        "% Undeclared":"0"
+    },
+    {
+        "Year":2015,
+        "Company":"Intel",
+        "Female %":25,
+        "Male %":75,
+        "% White":61,
+        "% Asian":"26",
+        "% Latino":"9",
+        "% Black":"4",
+        "% Multi":"0",
+        "% Other":"1",
+        "% Undeclared":"0"
+    },
+    {
+        "Year":2016,
+        "Company":"Intel",
+        "Female %":25,
+        "Male %":75,
+        "% White":61,
+        "% Asian":"26",
+        "% Latino":"9",
+        "% Black":"4",
+        "% Multi":"0",
+        "% Other":"1",
+        "% Undeclared":"0"
+    },
+    {
+        "Year":2017,
+        "Company":"Intel",
+        "Female %":26,
+        "Male %":74,
+        "% White":48,
+        "% Asian":"38",
+        "% Latino":"9",
+        "% Black":"4",
+        "% Multi":"1",
+        "% Other":"<1",
+        "% Undeclared":"0"
+    },
+    {
+        "Year":2018,
+        "Company":"Intel",
+        "Female %":27,
+        "Male %":74,
+        "% White":48,
+        "% Asian":"39",
+        "% Latino":"9",
+        "% Black":"4",
+        "% Multi":"0",
+        "% Other":"1",
+        "% Undeclared":"0"
+    }
+]

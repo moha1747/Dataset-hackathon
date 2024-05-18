@@ -1,0 +1,67 @@
+[
+    {
+        "Year":2014,
+        "Company":"Groupon",
+        "Female %":47,
+        "Male %":53,
+        "% White":71,
+        "% Asian":"15",
+        "% Latino":"5",
+        "% Black":"4",
+        "% Multi":"0",
+        "% Other":"4",
+        "% Undeclared":"0"
+    },
+    {
+        "Year":2015,
+        "Company":"Groupon",
+        "Female %":47,
+        "Male %":53,
+        "% White":71,
+        "% Asian":"15",
+        "% Latino":"5",
+        "% Black":"4",
+        "% Multi":"0",
+        "% Other":"4",
+        "% Undeclared":"0"
+    },
+    {
+        "Year":2016,
+        "Company":"Groupon",
+        "Female %":47,
+        "Male %":53,
+        "% White":71,
+        "% Asian":"15",
+        "% Latino":"5",
+        "% Black":"4",
+        "% Multi":"0",
+        "% Other":"4",
+        "% Undeclared":"0"
+    },
+    {
+        "Year":2017,
+        "Company":"Groupon",
+        "Female %":44,
+        "Male %":56,
+        "% White":62,
+        "% Asian":"20",
+        "% Latino":"8",
+        "% Black":"8",
+        "% Multi":"0",
+        "% Other":"3",
+        "% Undeclared":"0"
+    },
+    {
+        "Year":2018,
+        "Company":"Groupon",
+        "Female %":44,
+        "Male %":56,
+        "% White":62,
+        "% Asian":"20",
+        "% Latino":"8",
+        "% Black":"8",
+        "% Multi":"0",
+        "% Other":"3",
+        "% Undeclared":"0"
+    }
+]

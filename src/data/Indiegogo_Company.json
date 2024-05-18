@@ -1,0 +1,67 @@
+[
+    {
+        "Year":2014,
+        "Company":"Indiegogo",
+        "Female %":45,
+        "Male %":55,
+        "% White":64,
+        "% Asian":"23",
+        "% Latino":"8",
+        "% Black":"2",
+        "% Multi":"0",
+        "% Other":"3",
+        "% Undeclared":"0"
+    },
+    {
+        "Year":2015,
+        "Company":"Indiegogo",
+        "Female %":45,
+        "Male %":55,
+        "% White":64,
+        "% Asian":"23",
+        "% Latino":"8",
+        "% Black":"2",
+        "% Multi":"0",
+        "% Other":"3",
+        "% Undeclared":"0"
+    },
+    {
+        "Year":2016,
+        "Company":"Indiegogo",
+        "Female %":45,
+        "Male %":55,
+        "% White":64,
+        "% Asian":"23",
+        "% Latino":"8",
+        "% Black":"2",
+        "% Multi":"0",
+        "% Other":"3",
+        "% Undeclared":"0"
+    },
+    {
+        "Year":2017,
+        "Company":"Indiegogo",
+        "Female %":50,
+        "Male %":50,
+        "% White":58,
+        "% Asian":"28",
+        "% Latino":"7",
+        "% Black":"4",
+        "% Multi":"0",
+        "% Other":"3",
+        "% Undeclared":"0"
+    },
+    {
+        "Year":2018,
+        "Company":"Indiegogo",
+        "Female %":50,
+        "Male %":50,
+        "% White":58,
+        "% Asian":"28",
+        "% Latino":"7",
+        "% Black":"4",
+        "% Multi":"0",
+        "% Other":"3",
+        "% Undeclared":"0"
+    }
+]

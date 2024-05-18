@@ -1,0 +1,67 @@
+[
+    {
+        "Year":2014,
+        "Company":"Apple",
+        "Female %":30,
+        "Male %":70,
+        "% White":55,
+        "% Asian":"15",
+        "% Latino":"11",
+        "% Black":"7",
+        "% Multi":"2",
+        "% Other":"1",
+        "% Undeclared":"9"
+    },
+    {
+        "Year":2015,
+        "Company":"Apple",
+        "Female %":31,
+        "Male %":69,
+        "% White":54,
+        "% Asian":"18",
+        "% Latino":"11",
+        "% Black":"8",
+        "% Multi":"2",
+        "% Other":"1",
+        "% Undeclared":"6"
+    },
+    {
+        "Year":2016,
+        "Company":"Apple",
+        "Female %":32,
+        "Male %":68,
+        "% White":56,
+        "% Asian":"19",
+        "% Latino":"12",
+        "% Black":"9",
+        "% Multi":"2",
+        "% Other":"1",
+        "% Undeclared":"2"
+    },
+    {
+        "Year":2017,
+        "Company":"Apple",
+        "Female %":32,
+        "Male %":68,
+        "% White":54,
+        "% Asian":"21",
+        "% Latino":"13",
+        "% Black":"9",
+        "% Multi":"3",
+        "% Other":"1",
+        "% Undeclared":"2"
+    },
+    {
+        "Year":2018,
+        "Company":"Apple",
+        "Female %":32,
+        "Male %":68,
+        "% White":54,
+        "% Asian":"21",
+        "% Latino":"13",
+        "% Black":"9",
+        "% Multi":"3",
+        "% Other":"1",
+        "% Undeclared":"2"
+    }
+]

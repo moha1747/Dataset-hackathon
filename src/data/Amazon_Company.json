@@ -1,0 +1,67 @@
+[
+    {
+        "Year":2014,
+        "Company":"Amazon",
+        "Female %":37,
+        "Male %":63,
+        "% White":60,
+        "% Asian":"13",
+        "% Latino":"9",
+        "% Black":"15",
+        "% Multi":"0",
+        "% Other":"3",
+        "% Undeclared":"0"
+    },
+    {
+        "Year":2015,
+        "Company":"Amazon",
+        "Female %":37,
+        "Male %":63,
+        "% White":60,
+        "% Asian":"13",
+        "% Latino":"9",
+        "% Black":"15",
+        "% Multi":"0",
+        "% Other":"3",
+        "% Undeclared":"0"
+    },
+    {
+        "Year":2016,
+        "Company":"Amazon",
+        "Female %":37,
+        "Male %":63,
+        "% White":60,
+        "% Asian":"13",
+        "% Latino":"9",
+        "% Black":"15",
+        "% Multi":"0",
+        "% Other":"3",
+        "% Undeclared":"0"
+    },
+    {
+        "Year":2017,
+        "Company":"Amazon",
+        "Female %":39,
+        "Male %":61,
+        "% White":48,
+        "% Asian":"13",
+        "% Latino":"13",
+        "% Black":"21",
+        "% Multi":"0",
+        "% Other":"5",
+        "% Undeclared":"0"
+    },
+    {
+        "Year":2018,
+        "Company":"Amazon",
+        "Female %":39,
+        "Male %":61,
+        "% White":48,
+        "% Asian":"13",
+        "% Latino":"13",
+        "% Black":"21",
+        "% Multi":"0",
+        "% Other":"5",
+        "% Undeclared":"0"
+    }
+]

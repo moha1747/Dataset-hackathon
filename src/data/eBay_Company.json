@@ -1,0 +1,67 @@
+[
+    {
+        "Year":2014,
+        "Company":"eBay",
+        "Female %":42,
+        "Male %":58,
+        "% White":61,
+        "% Asian":"24",
+        "% Latino":"5",
+        "% Black":"7",
+        "% Multi":"1",
+        "% Other":"1",
+        "% Undeclared":"0"
+    },
+    {
+        "Year":2015,
+        "Company":"eBay",
+        "Female %":43,
+        "Male %":57,
+        "% White":60,
+        "% Asian":"25",
+        "% Latino":"5",
+        "% Black":"8",
+        "% Multi":"1",
+        "% Other":"1",
+        "% Undeclared":"0"
+    },
+    {
+        "Year":2016,
+        "Company":"eBay",
+        "Female %":43,
+        "Male %":57,
+        "% White":60,
+        "% Asian":"25",
+        "% Latino":"5",
+        "% Black":"8",
+        "% Multi":"1",
+        "% Other":"1",
+        "% Undeclared":"0"
+    },
+    {
+        "Year":2017,
+        "Company":"eBay",
+        "Female %":38,
+        "Male %":62,
+        "% White":52,
+        "% Asian":"40",
+        "% Latino":"4",
+        "% Black":"2",
+        "% Multi":"1",
+        "% Other":"1",
+        "% Undeclared":"0"
+    },
+    {
+        "Year":2018,
+        "Company":"eBay",
+        "Female %":40,
+        "Male %":60,
+        "% White":50,
+        "% Asian":"39",
+        "% Latino":"6",
+        "% Black":"3",
+        "% Multi":"1",
+        "% Other":"1",
+        "% Undeclared":"0"
+    }
+]

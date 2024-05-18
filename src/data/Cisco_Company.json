@@ -1,0 +1,67 @@
+[
+    {
+        "Year":2014,
+        "Company":"Cisco",
+        "Female %":23,
+        "Male %":77,
+        "% White":54,
+        "% Asian":"0",
+        "% Latino":"0",
+        "% Black":"0",
+        "% Multi":"0",
+        "% Other":"0",
+        "% Undeclared":"0"
+    },
+    {
+        "Year":2015,
+        "Company":"Cisco",
+        "Female %":23,
+        "Male %":77,
+        "% White":54,
+        "% Asian":"0",
+        "% Latino":"0",
+        "% Black":"0",
+        "% Multi":"0",
+        "% Other":"0",
+        "% Undeclared":"0"
+    },
+    {
+        "Year":2016,
+        "Company":"Cisco",
+        "Female %":23,
+        "Male %":77,
+        "% White":54,
+        "% Asian":"0",
+        "% Latino":"0",
+        "% Black":"0",
+        "% Multi":"0",
+        "% Other":"0",
+        "% Undeclared":"0"
+    },
+    {
+        "Year":2017,
+        "Company":"Cisco",
+        "Female %":24,
+        "Male %":76,
+        "% White":53,
+        "% Asian":"37",
+        "% Latino":"5",
+        "% Black":"4",
+        "% Multi":"1",
+        "% Other":"<1",
+        "% Undeclared":"0"
+    },
+    {
+        "Year":2018,
+        "Company":"Cisco",
+        "Female %":24,
+        "Male %":76,
+        "% White":53,
+        "% Asian":"37",
+        "% Latino":"5",
+        "% Black":"4",
+        "% Multi":"1",
+        "% Other":"<1",
+        "% Undeclared":"0"
+    }
+]

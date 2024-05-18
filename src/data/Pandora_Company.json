@@ -1,0 +1,67 @@
+[
+    {
+        "Year":2014,
+        "Company":"Pandora",
+        "Female %":49,
+        "Male %":51,
+        "% White":71,
+        "% Asian":"12",
+        "% Latino":"7",
+        "% Black":"3",
+        "% Multi":"6",
+        "% Other":"1",
+        "% Undeclared":"0"
+    },
+    {
+        "Year":2015,
+        "Company":"Pandora",
+        "Female %":49,
+        "Male %":51,
+        "% White":71,
+        "% Asian":"12",
+        "% Latino":"7",
+        "% Black":"3",
+        "% Multi":"6",
+        "% Other":"1",
+        "% Undeclared":"0"
+    },
+    {
+        "Year":2016,
+        "Company":"Pandora",
+        "Female %":49,
+        "Male %":51,
+        "% White":71,
+        "% Asian":"12",
+        "% Latino":"7",
+        "% Black":"3",
+        "% Multi":"6",
+        "% Other":"1",
+        "% Undeclared":"0"
+    },
+    {
+        "Year":2017,
+        "Company":"Pandora",
+        "Female %":49,
+        "Male %":51,
+        "% White":65,
+        "% Asian":"16",
+        "% Latino":"8",
+        "% Black":"5",
+        "% Multi":"5",
+        "% Other":"1",
+        "% Undeclared":"0"
+    },
+    {
+        "Year":2018,
+        "Company":"Pandora",
+        "Female %":49,
+        "Male %":51,
+        "% White":65,
+        "% Asian":"16",
+        "% Latino":"8",
+        "% Black":"5",
+        "% Multi":"5",
+        "% Other":"1",
+        "% Undeclared":"0"
+    }
+]

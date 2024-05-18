@@ -1,0 +1,67 @@
+[
+    {
+        "Year":2014,
+        "Company":"Yahoo!",
+        "Female %":37,
+        "Male %":62,
+        "% White":50,
+        "% Asian":"39",
+        "% Latino":"4",
+        "% Black":"2",
+        "% Multi":"2",
+        "% Other":"2",
+        "% Undeclared":"0"
+    },
+    {
+        "Year":2015,
+        "Company":"Yahoo!",
+        "Female %":37,
+        "Male %":62,
+        "% White":50,
+        "% Asian":"39",
+        "% Latino":"4",
+        "% Black":"2",
+        "% Multi":"2",
+        "% Other":"2",
+        "% Undeclared":"1"
+    },
+    {
+        "Year":2016,
+        "Company":"Yahoo!",
+        "Female %":37,
+        "Male %":62,
+        "% White":47,
+        "% Asian":"43",
+        "% Latino":"4",
+        "% Black":"2",
+        "% Multi":"2",
+        "% Other":"3",
+        "% Undeclared":"0"
+    },
+    {
+        "Year":2017,
+        "Company":"Yahoo!",
+        "Female %":37,
+        "Male %":63,
+        "% White":45,
+        "% Asian":"44",
+        "% Latino":"4",
+        "% Black":"2",
+        "% Multi":"2",
+        "% Other":"3",
+        "% Undeclared":"0"
+    },
+    {
+        "Year":2018,
+        "Company":"Yahoo!",
+        "Female %":37,
+        "Male %":63,
+        "% White":45,
+        "% Asian":"44",
+        "% Latino":"4",
+        "% Black":"2",
+        "% Multi":"2",
+        "% Other":"3",
+        "% Undeclared":"0"
+    }
+]
