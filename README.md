@@ -32,9 +32,3 @@ This project visualizes diversity data for major tech companies over several yea
 6. Start the Vite Development Server
    ```bash
       npm run dev
-
-
-
-
-
-
