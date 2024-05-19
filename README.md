@@ -16,7 +16,7 @@ This project visualizes diversity data for major tech companies over several yea
    git clone https://github.com/moha1747/diversity-in-tech-workplace.git
    cd diversity-in-tech-workplace
    cd src
-2. ** Set Up a Python Virtual Environment**
+2. **Set Up a Python Virtual Environment**
    ```bash
    python -m venv myenv
    source myenv/bin/activate  # On Windows, use `myenv\Scripts\activate`
