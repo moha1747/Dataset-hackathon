@@ -1,9 +1,19 @@
-# React + Vite
+# Diversity in Tech Workplace
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Introduction
+This project visualizes diversity data for major tech companies over several years, focusing on gender and racial composition. Users can select a year and view detailed charts showing the distribution of male and female employees, as well as racial diversity percentages for each company.
 
-Currently, two official plugins are available:
+## Getting Started
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# Dataset-hackathon
+### Prerequisites
+- Python 3.x
+- Node.js and npm
+
+### Setting Up the Project
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/yourusername/diversity-in-tech-workplace.git
+   cd diversity-in-tech-workplace
+  ```bash
+
