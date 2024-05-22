@@ -6,6 +6,7 @@ import {
   Typography,
 } from "@mui/material";
 import PropTypes from "prop-types";
+import { Link } from 'react-router-dom'
 
 const HomePage = ({ years }) => {
   return (
@@ -17,7 +18,7 @@ const HomePage = ({ years }) => {
         {/* Maps every year's data to nav bar links */}
         {years &&
           years.map((year) => (
-            <ListItemButton to={`/year/${year}`} key={year}>
+            <ListItemButton component={Link} to={`/year/${year}`} key={year}>
               <ListItemText primary={year} />
             </ListItemButton>
           ))}
