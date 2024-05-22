@@ -9,6 +9,7 @@ function App() {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
 
+  // fetches data and converts 
   useEffect(() => {
     fetch("/organized_data.json")
       .then((response) => {

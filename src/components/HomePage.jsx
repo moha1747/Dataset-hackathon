@@ -14,6 +14,7 @@ const HomePage = ({ years }) => {
         Diversity in Tech Workplace
       </Typography>
       <List>
+        {/* Maps every year's data to nav bar links */}
         {years &&
           years.map((year) => (
             <ListItemButton to={`/year/${year}`} key={year}>
