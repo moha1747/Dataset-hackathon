@@ -11,12 +11,12 @@ const HomePage = ({ years }) => {
   return (
     <Paper elevation={3} style={{ padding: "20px" }}>
       <Typography variant="h4" gutterBottom>
-        Diversity Dashboard
+        Diversity in Tech Workplace
       </Typography>
       <List>
         {years &&
           years.map((year) => (
-            <ListItemButton LinkComponent={`/year/${year}`} key={year}>
+            <ListItemButton to={`/year/${year}`} key={year}>
               <ListItemText primary={year} />
             </ListItemButton>
           ))}
